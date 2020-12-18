@@ -5,7 +5,7 @@ This script scrapes data from [Youtube](https://youtube.com/en). Results are sav
 *Tools used:*
 - **jupyter noteboook**
 - **Python 3.7**
-- **google API Client**
+- **google account**
 - **pandas**
 
 ## Task
@@ -38,7 +38,7 @@ Create an additional the column that builds the video URL using the video id.
 
 
 ## SetUp
-* Apply for a google developer account
+* Activate API from Google console. [Tutorial](https://www.analyticssteps.com/blogs/how-extract-analyze-youtube-data-using-youtube-api)  to activate API from google console
 * Clone this repo
 * Create an environment using :
   ```
